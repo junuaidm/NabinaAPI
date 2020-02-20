@@ -1,0 +1,4 @@
+E:\Nabeena\ItemLatest\obj\Release\netcoreapp3.0\ItemLatest.csprojAssemblyReference.cache
+E:\Nabeena\ItemLatest\obj\Release\netcoreapp3.0\ItemLatest.MvcApplicationPartsAssemblyInfo.cache
+E:\Nabeena\ItemLatest\obj\Release\netcoreapp3.0\ItemLatest.AssemblyInfoInputs.cache
+E:\Nabeena\ItemLatest\obj\Release\netcoreapp3.0\ItemLatest.AssemblyInfo.cs

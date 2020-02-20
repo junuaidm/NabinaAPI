@@ -1,0 +1,16 @@
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.deps.json
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.runtimeconfig.json
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.runtimeconfig.dev.json
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.dll
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.pdb
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\bin\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.xml
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\obj\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.RazorAssemblyInfo.cache
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\obj\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.RazorAssemblyInfo.cs
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\obj\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.AssemblyInfoInputs.cache
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\obj\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.AssemblyInfo.cs
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\obj\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.RazorTargetAssemblyInfo.cache
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\obj\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.dll
+C:\Users\e3f1nf5\Documents\Test\nabeenaapi\NabinaEcomerceApi\obj\Debug\netcoreapp2.2\Nbn.eCommenrce.ItemService.pdb
